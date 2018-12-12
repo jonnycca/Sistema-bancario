@@ -1,0 +1,92 @@
+c:\users\cassiano\documents\visual studio 2017\Projects\BANCO\BANCO\bin\Debug\BANCO.exe.config
+c:\users\cassiano\documents\visual studio 2017\Projects\BANCO\BANCO\bin\Debug\BANCO.exe
+c:\users\cassiano\documents\visual studio 2017\Projects\BANCO\BANCO\bin\Debug\BANCO.pdb
+c:\users\cassiano\documents\visual studio 2017\Projects\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+c:\users\cassiano\documents\visual studio 2017\Projects\BANCO\BANCO\obj\Debug\BANCO.Form1.resources
+c:\users\cassiano\documents\visual studio 2017\Projects\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+c:\users\cassiano\documents\visual studio 2017\Projects\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.Cache
+c:\users\cassiano\documents\visual studio 2017\Projects\BANCO\BANCO\obj\Debug\BANCO.exe
+c:\users\cassiano\documents\visual studio 2017\Projects\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\Cassiano\Desktop\Trabalho\Projects\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\Cassiano\Desktop\Trabalho\Projects\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\Cassiano\Desktop\Trabalho\Projects\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\Cassiano\Desktop\Trabalho\Projects\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\Cassiano\Desktop\Trabalho\Projects\BANCO\BANCO\obj\Debug\BANCO.Form1.resources
+C:\Users\Cassiano\Desktop\Trabalho\Projects\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+C:\Users\Cassiano\Desktop\Trabalho\Projects\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.Cache
+C:\Users\Cassiano\Desktop\Trabalho\Projects\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\Cassiano\Desktop\Trabalho\Projects\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\Cassiano\Desktop\Projects\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\Cassiano\Desktop\Projects\BANCO\BANCO\obj\Debug\BANCO.Form1.resources
+C:\Users\Cassiano\Desktop\Projects\BANCO\BANCO\obj\Debug\BANCO.OPERACOES.resources
+C:\Users\Cassiano\Desktop\Projects\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+C:\Users\Cassiano\Desktop\Projects\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.Cache
+C:\Users\Cassiano\Desktop\Projects\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\Cassiano\Desktop\Projects\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\Cassiano\Desktop\Projects\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\Cassiano\Desktop\Projects\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\Cassiano\Desktop\Projects\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\Cassiano\Desktop\Projects\BANCO\BANCO\obj\Debug\BANCO.mostrarsaldo2.resources
+C:\Users\Cassiano\Desktop\Nova pasta (6)\Projects\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\Cassiano\Desktop\Nova pasta (6)\Projects\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\Cassiano\Desktop\Nova pasta (6)\Projects\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\Cassiano\Desktop\Nova pasta (6)\Projects\BANCO\BANCO\obj\Debug\BANCO.Form1.resources
+C:\Users\Cassiano\Desktop\Nova pasta (6)\Projects\BANCO\BANCO\obj\Debug\BANCO.mostrarsaldo2.resources
+C:\Users\Cassiano\Desktop\Nova pasta (6)\Projects\BANCO\BANCO\obj\Debug\BANCO.OPERACOES.resources
+C:\Users\Cassiano\Desktop\Nova pasta (6)\Projects\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+C:\Users\Cassiano\Desktop\Nova pasta (6)\Projects\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.Cache
+C:\Users\Cassiano\Desktop\Nova pasta (6)\Projects\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\Cassiano\Desktop\Nova pasta (6)\Projects\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\Cassiano\Desktop\Nova pasta (6)\Projects\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.Cache
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmPrincipal.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmoperacoes.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmSaque.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmResulOp.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmSenha.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmDeposito.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmTranferencia.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.frmDeposito.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.frmResulOp.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.frmoperacoes.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.frmSaque.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.frmSenha.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.frmTranferencia.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.Cache
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\bin\Debug\Reports.dll
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\bin\Debug\itextsharp.dll
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\bin\Debug\itextsharp.xml
+C:\Users\Cassiano\Desktop\Trabalho oficial - Cópia\Projects\BANCO\BANCO\obj\Debug\BANCO.frmPrincipal.resources
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\bin\Debug\itextsharp.dll
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\bin\Debug\Reports.dll
+C:\Users\Cassiano\Desktop\Trabalho oficial\Projects\BANCO\BANCO\bin\Debug\itextsharp.xml
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\bin\Debug\BANCO.exe.config
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\bin\Debug\BANCO.exe
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\bin\Debug\BANCO.pdb
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\bin\Debug\itextsharp.xml
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmDeposito.resources
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmPrincipal.resources
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmResulOp.resources
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmoperacoes.resources
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmSaque.resources
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmSenha.resources
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.frmTranferencia.resources
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.Properties.Resources.resources
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.csproj.GenerateResource.Cache
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.exe
+E:\Meus Arquivos\Trabalho oficial\Projects\BANCO\BANCO\obj\Debug\BANCO.pdb
